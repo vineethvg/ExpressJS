@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "User1",
+    "department": "R&D"
+  },
+  {
+    "id": 1,
+    "name": "User2",
+    "department": "R&D"
+  },
+  {
+    "id": 2,
+    "name": "User3",
+    "department": "HR"
+  }
+]
